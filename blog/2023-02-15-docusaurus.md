@@ -1,5 +1,5 @@
 ---
-id: docusaurus
+slug: docusaurus
 title: docusaurus
 authors: [frank]
 tags: [hello, docusaurus]
