@@ -1,24 +1,12 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+js:
+  name: 挡雨的外套
+  title: 虽不能至，心向往之。
+  url: https://onedaydayde.netlify.app/
+  image_url: https://avatars.githubusercontent.com/u/25220596?s=400&u=bc6c9235e0b0240f7c0dfd65df717fb56be2cd7c&v=4
 
 frank:
   name: franklin
   title: 人生如梦，一尊还酹江月。
-  url: https://www.baidu.com
+  url: https://onedaydayde.netlify.app/
   image_url: https://avatars.githubusercontent.com/u/25220596?s=400&u=bc6c9235e0b0240f7c0dfd65df717fb56be2cd7c&v=4
 
